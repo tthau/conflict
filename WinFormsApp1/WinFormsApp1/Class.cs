@@ -4,11 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WindowsFormsApp1
+namespace WinFormsApp1
 {
-    internal class Class1
+    internal class Class
     {
         int x;
+        int y;
         int z;
     }
 }
