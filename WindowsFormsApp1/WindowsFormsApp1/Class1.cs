@@ -10,5 +10,6 @@ namespace WindowsFormsApp1
     {
         int x;
         int z;
+        int c, a;
     }
 }
